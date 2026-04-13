@@ -1,5 +1,8 @@
 # show-hn-writer
 
+<img width="1280" height="640" alt="show-hn-writer" src="https://github.com/user-attachments/assets/224030e0-c3e0-499c-98d4-a049d7dddc51" />
+
+
 Draft a Show HN post (title + body) that follows Hacker News norms: specific, honest, first-person, no marketing. Generates three title variants and a complete body, then runs a Gemini review to catch HN anti-patterns before you post.
 
 ## What It Does
